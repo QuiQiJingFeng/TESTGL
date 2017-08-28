@@ -7,14 +7,14 @@
     "FB4A41DF9AEF5B8EA63705B805D52FECFA1254CB" : 9223372036854775807,
     "07C75CE4F318BBF153B36EDF28D8DBDF10A488BB" : 9223372036854775807
   },
-  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "659D7274-8152-4BED-893F-FFD06430BE23",
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C376472E-5990-45EF-982C-858ED2D2742D",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "FB4A41DF9AEF5B8EA63705B805D52FECFA1254CB" : "",
     "07C75CE4F318BBF153B36EDF28D8DBDF10A488BB" : "TESTGL\/"
   },
-  "DVTSourceControlWorkspaceBlueprintNameKey" : "OpenGL",
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OpenGL_Cocoa",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OpenGL\/OpenGL.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OpenGL_Cocoa\/OpenGL_Cocoa.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/QuiQiJingFeng\/TESTGL.git",

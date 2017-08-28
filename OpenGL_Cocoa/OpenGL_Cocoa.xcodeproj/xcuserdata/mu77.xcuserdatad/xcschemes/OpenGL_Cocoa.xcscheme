@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F0CE5EE71F50468200617953"
-               BuildableName = "OpenGL"
-               BlueprintName = "OpenGL"
-               ReferencedContainer = "container:OpenGL.xcodeproj">
+               BlueprintIdentifier = "F0CE5F031F542D2900617953"
+               BuildableName = "OpenGL_Cocoa.app"
+               BlueprintName = "OpenGL_Cocoa"
+               ReferencedContainer = "container:OpenGL_Cocoa.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F0CE5EE71F50468200617953"
-            BuildableName = "OpenGL"
-            BlueprintName = "OpenGL"
-            ReferencedContainer = "container:OpenGL.xcodeproj">
+            BlueprintIdentifier = "F0CE5F031F542D2900617953"
+            BuildableName = "OpenGL_Cocoa.app"
+            BlueprintName = "OpenGL_Cocoa"
+            ReferencedContainer = "container:OpenGL_Cocoa.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F0CE5EE71F50468200617953"
-            BuildableName = "OpenGL"
-            BlueprintName = "OpenGL"
-            ReferencedContainer = "container:OpenGL.xcodeproj">
+            BlueprintIdentifier = "F0CE5F031F542D2900617953"
+            BuildableName = "OpenGL_Cocoa.app"
+            BlueprintName = "OpenGL_Cocoa"
+            ReferencedContainer = "container:OpenGL_Cocoa.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F0CE5EE71F50468200617953"
-            BuildableName = "OpenGL"
-            BlueprintName = "OpenGL"
-            ReferencedContainer = "container:OpenGL.xcodeproj">
+            BlueprintIdentifier = "F0CE5F031F542D2900617953"
+            BuildableName = "OpenGL_Cocoa.app"
+            BlueprintName = "OpenGL_Cocoa"
+            ReferencedContainer = "container:OpenGL_Cocoa.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
