@@ -15,6 +15,7 @@
 		F0CE5F2C1F54305000617953 /* Block6.tga in Resources */ = {isa = PBXBuildFile; fileRef = F0CE5F271F54305000617953 /* Block6.tga */; };
 		F0CE5F2D1F54305000617953 /* floor.tga in Resources */ = {isa = PBXBuildFile; fileRef = F0CE5F281F54305000617953 /* floor.tga */; };
 		F0CE5F2F1F5436B500617953 /* libGLTools.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F0CE5F2E1F5436B500617953 /* libGLTools.a */; };
+		F0ED1EF31F56AB8F00BA16F6 /* Utils.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F0ED1EF11F56AB8F00BA16F6 /* Utils.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		F0CE5F271F54305000617953 /* Block6.tga */ = {isa = PBXFileReference; lastKnownFileType = file; path = Block6.tga; sourceTree = "<group>"; };
 		F0CE5F281F54305000617953 /* floor.tga */ = {isa = PBXFileReference; lastKnownFileType = file; path = floor.tga; sourceTree = "<group>"; };
 		F0CE5F2E1F5436B500617953 /* libGLTools.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libGLTools.a; path = ../example/GLTools/libGLTools.a; sourceTree = "<group>"; };
+		F0ED1EF11F56AB8F00BA16F6 /* Utils.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Utils.cpp; sourceTree = "<group>"; };
+		F0ED1EF21F56AB8F00BA16F6 /* Utils.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Utils.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +80,8 @@
 				F0CE5F261F54305000617953 /* Block5.tga */,
 				F0CE5F271F54305000617953 /* Block6.tga */,
 				F0CE5F281F54305000617953 /* floor.tga */,
+				F0ED1EF11F56AB8F00BA16F6 /* Utils.cpp */,
+				F0ED1EF21F56AB8F00BA16F6 /* Utils.hpp */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -165,6 +170,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F0CE5F1F1F542F3900617953 /* main.cpp in Sources */,
+				F0ED1EF31F56AB8F00BA16F6 /* Utils.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
